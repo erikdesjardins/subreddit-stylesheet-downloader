@@ -1,0 +1,17 @@
+{
+  "name": "subreddit-stylesheet-downloader",
+  "version": "0.0.0",
+  "description": "Downloads stylesheets from the most popular subreddits (for analysis).",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikdesjardins/subreddit-stylesheet-downloader.git"
+  },
+  "author": "Erik Desjardins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erikdesjardins/subreddit-stylesheet-downloader/issues"
+  },
+  "homepage": "https://github.com/erikdesjardins/subreddit-stylesheet-downloader#readme"
+}
