@@ -39,3 +39,6 @@ jspm_packages
 # IntelliJ
 *.iml
 .idea
+
+# Output dir
+css
